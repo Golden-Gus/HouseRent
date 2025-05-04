@@ -12,6 +12,7 @@ namespace HouseRent
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run();
+            // Test text
         }
     }
 }
