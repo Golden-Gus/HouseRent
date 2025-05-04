@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roman\\Desktop\\HouseRent\\Project\\HouseRent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{996DE710-ED9D-4EA9-8BEE-512CEB848520}|HouseRent\\HouseRent.csproj|c:\\users\\roman\\desktop\\houserent\\project\\houserent\\houserent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996DE710-ED9D-4EA9-8BEE-512CEB848520}|HouseRent\\HouseRent.csproj|solutionrelative:houserent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roman\\Desktop\\HouseRent\\Project\\HouseRent\\HouseRent\\Program.cs",
+              "RelativeDocumentMoniker": "HouseRent\\Program.cs",
+              "ToolTip": "C:\\Users\\Roman\\Desktop\\HouseRent\\Project\\HouseRent\\HouseRent\\Program.cs",
+              "RelativeToolTip": "HouseRent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:41:48.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
